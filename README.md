@@ -1,4 +1,4 @@
-# Convolutional Neural Network
+# Convolutional Neural Network (CNN)
 # CIFAR-10 Image Classification using CNN
 
 ## 📌 Project Overview
